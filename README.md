@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/mern-estate-3ff55.appspot.com/o/Pramod-Savant-Resume.pdf?alt=media&token=8f7c4960-8519-4e79-a3e7-c4beaa662321](https://firebasestorage.googleapis.com/v0/b/mern-estate-3ff55.appspot.com/o/Pramod-Savant-Resume.pdf?alt=media&token=8f7c4960-8519-4e79-a3e7-c4beaa662321)
 
-- ⚡ Fun fact **I thibk I am fun**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
