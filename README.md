@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.764712881.1705756405&semt=sph)]
+![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.764712881.1705756405&semt=sph)
 <h1 align="center">Hi 👋, I'm Pramod Savant</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
