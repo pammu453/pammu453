@@ -9,7 +9,7 @@ MERN Stack The MERN Stack is a popular JavaScript stack used for building modern
 * 🌍  I'm based in India, Karnataka, 591317
 * 🖥️  See my portfolio at [My Portfolio](http://changeme.com)
 * ✉️  You can contact me at [pramodsavant2001@gmail.com](mailto:pramodsavant2001@gmail.com)
-* 🚀  I'm currently working on [Blog app]((https://blog-oa6h.onrender.com))
+* 🚀  I'm currently working on [Blog app](https://blog-oa6h.onrender.com)
 * 🧠  I'm learning Practicing the MERN stack:
 * 🤝  I'm open to collaborating on any kind of MERN projects
 * ⚡  I secretly Spider-Man. Don't tell anyone.
