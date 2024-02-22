@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" /> My name is Pramod Savant</h1>
 <div style="text-align: center;">
-  <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.764712881.1705756405&semt=sph" style="width: 100%; height: 400px; object-fit: fit;" alt="MasterHead">
+  <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.764712881.1705756405&semt=sph](https://cdn.pixabay.com/photo/2018/03/06/23/32/desk-3204896_1280.jpg)" style="width: 100%; height: 400px; object-fit: fit;" alt="MasterHead">
 </div>
 
 MERN Stack developer
