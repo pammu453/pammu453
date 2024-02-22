@@ -6,7 +6,7 @@
 MERN Stack developer
 --------------------
 
-MERN Stack The MERN Stack is a popular JavaScript stack used for building modern web applications. It's an acronym that stands for: MongoDB: A NoSQL database that stores data in a flexible, JSON-like format. Express.js: A lightweight web application framework for Node.js, used for building web applications and APIs. React: A JavaScript library for building user interfaces, particularly single-page applications. Node.js: A JavaScript runtime environment that executes JavaScript code server-side.
+The MERN Stack is a popular JavaScript stack used for building modern web applications. It's an acronym that stands for: MongoDB: A NoSQL database that stores data in a flexible, JSON-like format. Express.js: A lightweight web application framework for Node.js, used for building web applications and APIs. React.js: A JavaScript library for building user interfaces, particularly single-page applications. Node.js: A JavaScript runtime environment that executes JavaScript code server-side.
 
 * 🌍  I'm based in India, Karnataka, 591317
 * 🖥️  See my portfolio at [My Portfolio](http://changeme.com)
