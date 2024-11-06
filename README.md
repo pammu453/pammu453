@@ -6,7 +6,7 @@
 Full Stack developer
 --------------------
 
-The MERN Stack is a popular JavaScript stack used for building modern web applications. It's an acronym that stands for: MongoDB: A NoSQL database that stores data in a flexible, JSON-like format. Express.js: A lightweight web application framework for Node.js, used for building web applications and APIs. React.js: A JavaScript library for building user interfaces, particularly single-page applications. Node.js: A JavaScript runtime environment that executes JavaScript code server-side.
+As a Full Stack Developer, I specialize in building dynamic and scalable web applications. I focus on creating efficient back-end systems, designing intuitive front-end interfaces, and ensuring seamless integration between the two. With a strong commitment to delivering high-quality, end-to-end solutions, I strive to meet both functional and user experience requirements, while continually expanding my skill set to stay at the forefront of technology.
 
 * 🌍  I'm based in India, Karnataka, 591317
 * 🖥️  See my portfolio at [My Portfolio](https://pramod-savant.onrender.com/)
