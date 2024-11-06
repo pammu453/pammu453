@@ -3,7 +3,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/mern-estate-3ff55.appspot.com/o/17084099539304884785.jpg?alt=media&token=2d12c1b4-e14f-454d-a714-8ed4cdce24d8" style="width: 100%; object-fit: fit;" alt="MasterHead">
 </div>
 
-MERN Stack developer
+Full Stack developer
 --------------------
 
 The MERN Stack is a popular JavaScript stack used for building modern web applications. It's an acronym that stands for: MongoDB: A NoSQL database that stores data in a flexible, JSON-like format. Express.js: A lightweight web application framework for Node.js, used for building web applications and APIs. React.js: A JavaScript library for building user interfaces, particularly single-page applications. Node.js: A JavaScript runtime environment that executes JavaScript code server-side.
@@ -11,7 +11,7 @@ The MERN Stack is a popular JavaScript stack used for building modern web applic
 * 🌍  I'm based in India, Karnataka, 591317
 * 🖥️  See my portfolio at [My Portfolio](https://pramod-savant.onrender.com/)
 * ✉️  You can contact me at [pramodsavant2001@gmail.com](mailto:pramodsavant2001@gmail.com)
-* 🚀  I'm currently working on [Blog app](http://savant-estate.onrender.com)
+* 🚀  I'm currently working on react-native
 * 🧠  I'm learning Practicing the MERN stack:
 * 🤝  I'm open to collaborating on any kind of MERN projects
 * ⚡  I secretly Spider-Man. Don't tell anyone.
