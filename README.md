@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" /> My name is Pramod Savant</h1>
 <div style="text-align: center;">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHMwQoAAMAwCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730876121938?e=1736380800&v=beta&t=wrv7NLE5wWECjoto1rUY3RiO3VzqmXUGKr9I_mXrLF0" style="width: 100%; object-fit: fit;" alt="MasterHead">
+  <img src="https://technoroll.org/wp-content/uploads/2020/12/Become-a-Full-Stack-Developers.jpg" style="width: 100%; object-fit: fit;" alt="MasterHead">
 </div>
 
 Full Stack developer
