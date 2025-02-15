@@ -1,8 +1,8 @@
 <h1 style="text-align: center;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" /> My name is Pramod Savant</h1>
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
   <img src="https://technoroll.org/wp-content/uploads/2020/12/Become-a-Full-Stack-Developers.jpg" style="width: 100%; object-fit: fit;" alt="MasterHead">
 </div>
- -->
+
 Full Stack developer
 --------------------
 
