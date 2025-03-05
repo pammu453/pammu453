@@ -72,8 +72,8 @@ I'm a passionate **Full Stack Developer** specializing in building dynamic and s
 
 Here are some of my favorite projects and open-source contributions:
 
-🔹 **[MERN Blog App](#)** - Innovative MERN Blog App with Google OAuth Integration and Flowbite React.
-🔹 **[MERN eCommerce Platform](#)** - E-commerce website integrated with PayPal, built using the MERN stack and Redux Toolkit.
+🔹 **[MERN Blog App](https://github.com/pammu453/blogs)** - Innovative MERN Blog App with Google OAuth Integration and Flowbite React.
+🔹 **[MERN eCommerce Platform](https://github.com/pammu453/proshop)** - E-commerce website integrated with PayPal, built using the MERN stack and Redux Toolkit.
 
 Check out my repositories for more! 🏆
 
