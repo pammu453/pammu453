@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" /> My name is Pramod Savant</h1>
 <div style="text-align: center;">
-  <img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0" style="width: 100%; height:400px; object-fit: fit;" alt="MasterHead">
+  <img src="https://res.cloudinary.com/dloylpool/image/upload/v1741150479/c18qggwaxycr7mosglrc.jpg" style="width: 100%; height:200px; object-fit: fit;" alt="MasterHead">
 </div>
 
 Full Stack developer
