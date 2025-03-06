@@ -92,7 +92,7 @@ Check out my repositories for more! 🏆
 
 ### 🎯 Quote of the Day
 
-> "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing." – Pelé
+> "Face the failure, until the failure fails to face you" – M S Dhoni
 
 ---
 
