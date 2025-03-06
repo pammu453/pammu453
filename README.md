@@ -3,7 +3,7 @@
 # 🚀 Pramod Savant | Full Stack Developer
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dloylpool/image/upload/v1741150479/c18qggwaxycr7mosglrc.jpg" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" alt="MasterHead">
+  <img src="https://res.cloudinary.com/dloylpool/image/upload/v1741237668/e1n8zcbvgpbl3k6a8glq.jpg" width="100%" height="270px" style="object-fit: cover; border-radius: 10px;" alt="MasterHead">
 </div>
 
 ## 👨‍💻 About Me
